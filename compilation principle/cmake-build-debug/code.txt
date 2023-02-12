@@ -1,0 +1,12 @@
+int main() {
+    
+    int i = 0;
+    int j = 1;
+    int c = 0;
+    /*c等于i和j
+    的和*/
+    c = i + j;
+//asdfghjk
+    || && < <= |
+    return 0;
+}
